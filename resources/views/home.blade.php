@@ -31,9 +31,7 @@
                         </div>
                     @endif
 
-                   <h1 align="center">Selamat Datang di Sistem Informasi Music Player</h1> 
-                    <h2 align="center">Enjoy Your Music</h2>
-                    <h1>_______________________________________</h1>
+                   <h2 align="center">Welcome to indormation sistem Music</h2> 
                 </div>
             </div>
 
