@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="navbar navbar-expand-sm bg-light navbar-dark">
-<div class="container bg-danger">
+<div class="navbar navbar-expand-sm bg-dark navbar-dark">
+<div class="container bg-info">
      <nav class="navbar-fluid bg-dark">
     <ul class="navbar-nav">
             <a class="nav-link" href="{{ url('/home') }}">Home</a>
@@ -31,7 +31,7 @@
                         </div>
                     @endif
 
-                   <h2 align="center">Welcome to indormation sistem Music</h2> 
+                   <h2 align="center">Selamat Datang Di Dunia Musik</h2> 
                 </div>
             </div>
 

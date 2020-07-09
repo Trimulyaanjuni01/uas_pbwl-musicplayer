@@ -2,7 +2,7 @@
 
 @section('content') 
 <div class="container navbar-expand-sm bg-light navbar-dark">
-<div class="container bg-danger">
+<div class="container bg-info">
             <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <ul class="navbar-nav">
 	        <a class="nav-link" href="{{ url('/home') }}">Home</a>
